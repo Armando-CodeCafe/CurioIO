@@ -1,0 +1,14 @@
+/home/amano/Curio/io/bin/Debug/net8.0/io
+/home/amano/Curio/io/bin/Debug/net8.0/io.deps.json
+/home/amano/Curio/io/bin/Debug/net8.0/io.runtimeconfig.json
+/home/amano/Curio/io/bin/Debug/net8.0/io.dll
+/home/amano/Curio/io/bin/Debug/net8.0/io.pdb
+/home/amano/Curio/io/obj/Debug/net8.0/io.GeneratedMSBuildEditorConfig.editorconfig
+/home/amano/Curio/io/obj/Debug/net8.0/io.AssemblyInfoInputs.cache
+/home/amano/Curio/io/obj/Debug/net8.0/io.AssemblyInfo.cs
+/home/amano/Curio/io/obj/Debug/net8.0/io.csproj.CoreCompileInputs.cache
+/home/amano/Curio/io/obj/Debug/net8.0/io.dll
+/home/amano/Curio/io/obj/Debug/net8.0/refint/io.dll
+/home/amano/Curio/io/obj/Debug/net8.0/io.pdb
+/home/amano/Curio/io/obj/Debug/net8.0/io.genruntimeconfig.cache
+/home/amano/Curio/io/obj/Debug/net8.0/ref/io.dll
