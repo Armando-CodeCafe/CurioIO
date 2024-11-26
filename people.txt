@@ -1,5 +1,0 @@
-Armando,22,1.98
-Jordy,22,1.78
-Hamza,22,1.81
-Sam,20,1.75
-Beatriz,17,1.59
